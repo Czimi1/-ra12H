@@ -51,25 +51,25 @@ Felsorolás
 
 Számozás
 
-1.Hétfő
-2.Kedd
-3.Szerda
+1. Hétfő
+2. Kedd
+3. Szerda
 
 
 
 Számozás indítása más kezdettel:
 
-Vasárnap
-Hétfő
+100. Vasárnap
+101. Hétfő
 
 
-Kód
+## Kód
 
 Soron belül code
 
 Behúzott kód
 
-Néhány megjegyzés
+//Néhány megjegyzés
 Gyakorlás
 Gyakorlás
 Gyakorlás
