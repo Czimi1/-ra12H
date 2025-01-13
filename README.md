@@ -65,56 +65,56 @@ Számozás indítása más kezdettel:
 
 ## Kód
 
-Soron belül code
+Soron belül code `code`
 
 Behúzott kód
-
+```
 //Néhány megjegyzés
+ Gyakorlás
+ Gyakorlás
 Gyakorlás
-Gyakorlás
-Gyakorlás
-
-
+```
+```
 Blokk kód
-
+```
 
 Egyszerű szöveg...
 
 
 Szintaxis kiemelés
-
+```python
 
 for i in range(10):
     print("Hello")
 print("Vége")
+```
 
+## Táblázat
 
-Táblázat
-
-Gyümölcs Mennyiség
-
-alma 10 kg
-körte 20 kg
-banán 30 kg
+| Gyümölcs | Mennyiség |
+|----------|-----------|
+|alma |10 kg|
+|körte |20 kg|
+|banán |30 kg|
 
 Jobbra igazított táblázat
 
-Gyümölcs Mennyiség
-alma 10 kg
-körte 20 kg
-banán 30 kg
+| Gyümölcs | Mennyiség |
+|----------:|-----------:|
+|alma |10 kg|
+|körte |20 kg|
+|banán |30 kg|
+
+## Linkek
+
+- __[Aqua](http://aqua.hu)__
+
+- [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
+
+- Automatikus link __https://arpadszki.hu__
 
 
-Linkek
-
-Aqua http://aqua.hu
-
-Media Markt http://mediamarkt.hu/ MediaMarkt Magyarország
-
-Automatikus link https://arpadszki.hu
-
-
-Képek
+## Képek
 
 Minion https://octodex.github.com/images/minion.png
 Stormtroopocat  https://octodex.github.com/images/stormtroopocat.jpg The Stormtroopocat
@@ -125,12 +125,12 @@ Emoji https://github.com/markdown-it/markdown-it-emoji
 Jelek:
 
 
-Lábjegyzet https://github.com/markdown-it/markdown-it-footnote
+__[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
 Forgalomirányító protokollok:  
-RIP
-OSPF
+- RIP
+- OSPF
 
-Routing Information Protocol
+1.Routing Information Protocol
 
-Open Shortest Path First
+2.Open Shortest Path First
 
