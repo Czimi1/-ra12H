@@ -69,17 +69,17 @@ Soron belül code `code`
 
 Behúzott kód
 ```
-//Néhány megjegyzés
- Gyakorlás
- Gyakorlás
-Gyakorlás
+    // Néhány megjegyzés
+    Gyakorlás
+    Gyakorlás
+    Gyakorlás
 ```
 ```
 Blokk kód
 ```
-
+```
 Egyszerű szöveg...
-
+```
 
 Szintaxis kiemelés
 ```python
@@ -116,21 +116,21 @@ Jobbra igazított táblázat
 
 ## Képek
 
-Minion https://octodex.github.com/images/minion.png
-Stormtroopocat  https://octodex.github.com/images/stormtroopocat.jpg The Stormtroopocat
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-Emoji https://github.com/markdown-it/markdown-it-emoji
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
-Jelek:
+>Jelek: :blush: :scream: :boom: :alien:
 
 
 __[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)__
 Forgalomirányító protokollok:  
-- RIP
-- OSPF
+- RIP[^elso].
+- OSPF[^second].
 
-1.Routing Information Protocol
+[^elso]: **Routing Information Protocol**
 
-2.Open Shortest Path First
+[^second]: **Open Shortest Path First**
 
